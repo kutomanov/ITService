@@ -1,0 +1,9 @@
+c:\users\евгения\documents\visual studio 2015\Projects\ITServive\ITServive\bin\Debug\ITServive.exe.config
+c:\users\евгения\documents\visual studio 2015\Projects\ITServive\ITServive\bin\Debug\ITServive.exe
+c:\users\евгения\documents\visual studio 2015\Projects\ITServive\ITServive\bin\Debug\ITServive.pdb
+c:\users\евгения\documents\visual studio 2015\Projects\ITServive\ITServive\obj\Debug\ITServive.csprojResolveAssemblyReference.cache
+c:\users\евгения\documents\visual studio 2015\Projects\ITServive\ITServive\obj\Debug\ITServive.Properties.Resources.resources
+c:\users\евгения\documents\visual studio 2015\Projects\ITServive\ITServive\obj\Debug\ITServive.csproj.GenerateResource.Cache
+c:\users\евгения\documents\visual studio 2015\Projects\ITServive\ITServive\obj\Debug\ITServive.exe
+c:\users\евгения\documents\visual studio 2015\Projects\ITServive\ITServive\obj\Debug\ITServive.pdb
+C:\Users\Евгения\Documents\Visual Studio 2015\Projects\ITServive\ITServive\obj\Debug\ITServive.Form1.resources
